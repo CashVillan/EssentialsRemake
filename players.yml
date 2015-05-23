@@ -1,0 +1,4 @@
+players:
+  CashVillan:
+    gamemode: survival
+    fly: disabled
